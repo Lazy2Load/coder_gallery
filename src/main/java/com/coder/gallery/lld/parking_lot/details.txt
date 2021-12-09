@@ -1,0 +1,11 @@
+1. start with coding diff entities
+2. create diff folders to use
+    - models
+    - services
+    - repos
+        - use in mem storage
+    - controllers
+    - daos
+        - when storing data
+    - dtos
+        - entities that can be transfered to outside world
